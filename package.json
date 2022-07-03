@@ -1,0 +1,27 @@
+{
+  "name": "birdergram",
+  "version": "1.0.0",
+  "description": "instagram clone based birdwatcher theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeanKori/Birdergram.git"
+  },
+  "keywords": [
+    "react",
+    "js",
+    "apollo",
+    "GraphQL",
+    "JW",
+    "Webpack"
+  ],
+  "author": "Jean Carlos Ruiz Chamorro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeanKori/Birdergram/issues"
+  },
+  "homepage": "https://github.com/JeanKori/Birdergram#readme"
+}
